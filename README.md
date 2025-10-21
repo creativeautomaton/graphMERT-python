@@ -15,7 +15,7 @@ ArXiv link arXiv:2510.09580 from 10 October 2025
 
 Based on the notebooks use of Romeo + Juliet text for the graphMERT model training.
 
-##GraphMERT Node Embeddings (t-SNE View)
+# GraphMERT Node Embeddings (t-SNE View)
 
 import matplotlib.pyplot as plt
 from sklearn.manifold import TSNE
@@ -31,7 +31,7 @@ plt.title("GraphMERT Node Embeddings (t-SNE View)")
 plt.show()
 
      
-##GraphMERT Semantic Graph Visualization
+# GraphMERT Semantic Graph Visualization
 
 import networkx as nx
 
