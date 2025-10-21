@@ -1,6 +1,7 @@
 # graphMERT-python
 A simple example test implementation of the princeton graphMERT paper. 
 
+https://arxiv.org/abs/2510.09580
 
 All rights w/ authors:
 GraphMERT: Efficient and Scalable Distillation of Reliable
