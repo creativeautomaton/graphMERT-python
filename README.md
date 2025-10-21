@@ -13,9 +13,9 @@ Princeton University
 ArXiv link arXiv:2510.09580 from 10 October 2025
 
 
-# Based on the notebooks use of Romeo + Juliet text for the graphMERT model training.
+## Based on the notebooks use of Romeo + Juliet text for the graphMERT model training.
 
-## GraphMERT Node Embeddings (t-SNE View)
+### GraphMERT Node Embeddings (t-SNE View)
 
 import matplotlib.pyplot as plt
 from sklearn.manifold import TSNE
@@ -33,8 +33,7 @@ plt.show()
 <img width="683" height="682" alt="image" src="https://github.com/user-attachments/assets/a8ae3cb5-a646-4c22-bff4-44fd21c555a2" />
 
 
-     
-## GraphMERT Semantic Graph Visualization
+### GraphMERT Semantic Graph Visualization
 
 import networkx as nx
 
@@ -59,8 +58,8 @@ plt.show()
 <img width="1019" height="842" alt="image" src="https://github.com/user-attachments/assets/0ff4cd7b-42b0-40ca-aedf-9ef2dfbaa3c5" />
 
 
-## Query search on the graphs results
-### This is what we want bacause the search of the graph is linear based on chained knowledge with nodes having data of them.
+### Query search on the graphs results
+- This is what we want bacause the search of the graph is linear based on chained knowledge with nodes having data of them.
 <img width="1220" height="1042" alt="image" src="https://github.com/user-attachments/assets/3d0da53b-b962-423f-b3e3-118c749ba4b9" />
 
 
